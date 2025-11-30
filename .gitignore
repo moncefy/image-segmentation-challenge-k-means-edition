@@ -1,0 +1,19 @@
+# Ignore output images and results
+outputs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
