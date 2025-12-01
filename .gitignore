@@ -1,5 +1,6 @@
 # Ignore output images and results
 outputs/
+Final_output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
